@@ -1,0 +1,9 @@
+[package]
+name = "rengine"
+version = "0.1.0"
+edition = "2024"
+description = "A tiny, heavily commented LSM-tree storage engine for learning"
+
+# No dependencies on purpose: everything (checksums, bloom filters, file
+# formats) is written by hand so you can read every line.
+[dependencies]
