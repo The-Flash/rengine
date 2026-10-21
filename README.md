@@ -836,3 +836,9 @@ run `cargo test` after each change.
 * **mini-lsm**: https://github.com/skyzh/mini-lsm, a step-by-step course on
   building a more complete LSM engine in Rust. A great next step after this
   project.
+
+---
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
